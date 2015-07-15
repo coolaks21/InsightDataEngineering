@@ -24,7 +24,7 @@ OR (For Linux)
 1. Verify you have latest version of JAVA jre/jdk on ur machine i.e. 1.8
    If not, install it.
 
-2. Make sure "tweets.txt", "TwitterProject.jar" and "run.sh" are in the same directory.
+2. Make sure "TwitterProject.jar" and "run.sh" are in the same directory.
 
 3. Open the "Terminal" and go to the directory in which the above files are stored.
 
