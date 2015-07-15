@@ -1,4 +1,4 @@
-I actually made a ".jar" file out of my source code which is in java. I could not upload my".jar" file on GitHub. The only thing needed was to execute the program were as follows:
+I actually made a ".jar" file out of my source code which is in java. I could not upload my ".jar" file on GitHub. The only thing needed was to execute the program were as follows:
 
 Steps to execute program:
 
