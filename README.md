@@ -17,7 +17,7 @@ Steps to execute program:
 
 6. Press Enter
 
-7. Two output files ft1.txt and ft2.txt will get generated in C:\folderA\folderB (in the same direectory of "tweets.txt")
+7. Two output files ft1.txt and ft2.txt will get generated in C:\folderA\folderB (in the same directory of "tweets.txt")
   
 OR (For Linux)
 
@@ -33,6 +33,6 @@ OR (For Linux)
 5. Press Enter and you will see two output files "ft1.txt" and "ft2.txt" generated in the same directory as the "tweets.txt" file.
 
 
-I have attached my source code and it is working perfectly fine giving the desired ouputs (both ft1.txt and ft2.txt) and that too most accurately. I was unsure about how you are going to run my program and how am I supposed to write my shell scipt for the same. I combined both the required features into a single program (".jar" file) which only required the directory of the "tweets.txt" file and it would generate the output files "ft1.txt" and "ft2.txt" in the same directory.
+I have attached my source code and it is working perfectly fine giving the desired ouputs (both ft1.txt and ft2.txt) and that too most accurately. I was unsure about how you are going to run my program and how am I supposed to write my shell scipt for the same. I combined both the required features into a single program (".jar" file) which required only the directory of the "tweets.txt" file and it would generate the output files "ft1.txt" and "ft2.txt" in the same directory but I could not upload it here.
 
 I assure you I have a perfectly running program which you can test using my ".jar" file. Unfortunately, I could not write a shell file as requested by you but instead I made a ".jar file". Kindly allow me to submit my jar file through any other mean and let me know how can I send you my file.
